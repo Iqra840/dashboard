@@ -1,0 +1,13 @@
+
+{
+    "ssoEnabled": false,
+    "ssoDiscoveryUrl": "http://example.com",
+    "standalone": true,
+    "standaloneProtocol": "neo4j",
+    "standaloneHost": "fb8c9fba.databases.neo4j.io",
+    "standalonePort": "7687",
+    "standaloneDatabase": "neo4j",
+    "standaloneDashboardName": "IMPAX DEMO",
+    "standaloneDashboardDatabase": "neo4j",
+    "standaloneDashboardURL": ""
+}
