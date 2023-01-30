@@ -3,7 +3,7 @@
     "ssoEnabled": false,
     "ssoDiscoveryUrl": "http://example.com",
     "standalone": true,
-    "standaloneProtocol": "neo4j+s",
+    "standaloneProtocol": "neo4j",
     "standaloneHost": "7b37ebee.databases.neo4j.io",
     "standalonePort": "7687",
     "standaloneDatabase": "neo4j",
